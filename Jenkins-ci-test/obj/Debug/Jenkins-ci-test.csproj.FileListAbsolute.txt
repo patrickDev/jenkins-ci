@@ -1,0 +1,14 @@
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.execution.desktop.dll
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\Jenkins-ci-test.dll
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\Jenkins-ci-test.pdb
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.abstractions.dll
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.assert.dll
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.core.dll
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.abstractions.xml
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.assert.pdb
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.assert.xml
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.core.pdb
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\bin\Debug\xunit.core.xml
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\obj\Debug\Jenkins-ci-test.csprojResolveAssemblyReference.cache
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\obj\Debug\Jenkins-ci-test.dll
+c:\users\xzbs8b\documents\visual studio 2013\Projects\Jenkins-ci-test\Jenkins-ci-test\obj\Debug\Jenkins-ci-test.pdb
